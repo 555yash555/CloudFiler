@@ -100,7 +100,7 @@ Once the application is running, open your browser and navigate to `http://local
 
 ## 📁 Project Structure
 
-- **cmd/server/main.go**: Main entry point of the application.
+- **main.go**: Main entry point of the application.
 - **internal/auth**: Handles authentication logic using JWT.
 - **internal/db**: Manages database connections and models.
 - **internal/files**: Contains logic for file upload, management, and search.
